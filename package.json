@@ -9,7 +9,7 @@
 	"homepage": "https://three.ws",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/nirholas/scene-mcp.git"
+		"url": "git+https://github.com/nirholas/3d-scene-mcp.git"
 	},
 	"bugs": {
 		"url": "https://github.com/nirholas/three.ws/issues"
