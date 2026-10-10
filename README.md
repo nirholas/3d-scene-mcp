@@ -134,3 +134,26 @@ All rights reserved. See [LICENSE](LICENSE).
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/3d-scene-mcp&type=Date)](https://www.star-history.com/#nirholas/3d-scene-mcp&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If 3d-scene-mcp saves you time, **[star it on GitHub](https://github.com/nirholas/3d-scene-mcp)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=3d-scene-mcp%3A%20Build%20and%20manipulate%203D%20scenes%20from%20natural%20language%20via%20AI%20agents&url=https%3A%2F%2Fgithub.com%2Fnirholas%2F3d-scene-mcp) · [Share on Bluesky](https://bsky.app/intent/compose?text=3d-scene-mcp%3A%20Build%20and%20manipulate%203D%20scenes%20from%20natural%20language%20via%20AI%20agents%20https%3A%2F%2Fgithub.com%2Fnirholas%2F3d-scene-mcp) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2F3d-scene-mcp) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2F3d-scene-mcp&t=3d-scene-mcp%3A%20Build%20and%20manipulate%203D%20scenes%20from%20natural%20language%20via%20AI%20agents) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2F3d-scene-mcp&title=3d-scene-mcp%3A%20Build%20and%20manipulate%203D%20scenes%20from%20natural%20language%20via%20AI%20agents)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/3d-scene-mcp` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/3d-scene-mcp/issues) or [start a discussion](https://github.com/nirholas/3d-scene-mcp/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/3d-scene-mcp)](https://github.com/nirholas/3d-scene-mcp/graphs/contributors)
+
+<!-- /three.ws:growth -->

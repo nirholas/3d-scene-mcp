@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "3d-scene-mcp"
+abstract: "Build and manipulate 3D scenes from natural language via AI agents."
+repository-code: "https://github.com/nirholas/3d-scene-mcp"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

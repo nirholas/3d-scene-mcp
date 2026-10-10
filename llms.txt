@@ -1,0 +1,27 @@
+# 3d-scene-mcp
+
+> Build and manipulate 3D scenes from natural language via AI agents.
+
+3d-scene-mcp is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md): install, usage and reference
+- [Install](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#install)
+- [Quick start](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#quick-start)
+- [Tools](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#tools)
+- [Example](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#example)
+- [Requirements](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#requirements)
+- [Links](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#links)
+- [License](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/3d-scene-mcp/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/3d-scene-mcp)
+- [Issues](https://github.com/nirholas/3d-scene-mcp/issues)
+- [Discussions](https://github.com/nirholas/3d-scene-mcp/discussions)
+- [Homepage](https://three.ws/docs/mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
